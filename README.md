@@ -1,6 +1,6 @@
 # BlackSwan Force FA-Numbers Switch
 
-**BlackSwan Force FA-Numbers Switch** is an AutoIt script that replaces English digits with Persian digits when typing on the Numpad. It includes a system tray icon with toggling functionality, allowing users to enable or disable the digit replacement feature easily. The script also supports switching between Persian and English number input using a custom hotkey (Ctrl+NumpadDot).
+**BlackSwan Force FA-Numbers Switch** is an AutoIt script that replaces English and Persian digits when typing on the Numpad. It includes a system tray icon with toggling functionality, allowing users to easily enable or disable the digit replacement feature. The script also supports switching between Persian and English number input using a custom hotkey (Ctrl+NumpadDot).
 
 ## Features
 
@@ -17,7 +17,7 @@
 
    [Download BlackSwan Force FA-Numbers Switch](https://github.com/blackswanlab/BlackSwan-Force-FA-Numbers-Switch/releases/latest/download/BlackSwan_Force_FANumbers_Switch.exe)
 
-2. **Run the Executable**: After downloading, run the `.exe` file. The script will start and place an icon in the system tray.
+2. **Run the Executable**: Run the `.exe` file after downloading. The script will start and place an icon in the system tray.
 
 ### Edit and Compile the Script Yourself
 
@@ -50,7 +50,7 @@ If you want to modify the script and compile it yourself, follow these steps:
 
 ## Troubleshooting
 
-- **Persian Digits Not Displaying**: Ensure you are using a text editor or application that supports Persian digits and Unicode. Consider using Microsoft Word for better Unicode support.
+- **Persian Digits Not Displaying**: Ensure you use a text editor or application supporting Persian digits and Unicode. I think you should consider using Microsoft Word for better Unicode support.
 - **Tray Icon Not Updating**: If the system tray icon does not update correctly, try restarting the script.
 
 ## Contributing
@@ -59,8 +59,8 @@ Contributions are welcome! If you have suggestions or improvements, please submi
 
 ## License
 
-This project is licensed under the LGPL-3.0 license.
+This project is licensed under the MPL-2.0 license.
 
 ## Contact
 
-For any questions or feedback, please contact the project maintainer via GitHub issues or pull requests.
+For any questions or feedback, please get in touch with the project maintainer via GitHub issues or pull requests.
